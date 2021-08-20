@@ -1,6 +1,6 @@
-from Listener import Listener
-from Speaker import Speaker
-from CHandler import CHandler
+from speech.Listener import Listener
+from speech.Speaker import Speaker
+from speech.CHandler import CHandler
 
 class Conversation:
     def __init__(self):
